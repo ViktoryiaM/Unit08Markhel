@@ -1,6 +1,6 @@
 package com.epam.unit08.task01;
 
-public class Customers {
+public class Customers {// классы множественным числом не именуются
   private Customer[] customers;
   private int currentIndex;
 
